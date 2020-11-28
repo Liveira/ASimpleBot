@@ -698,4 +698,4 @@ async def wallet(ctx,user: discord.Member=None):
             
 
 '''
-bot.run('Nzc5MzY1NzgwODQ4Mzc3ODU2.X7fe8g.zmSrEsfzHzFja0p74UmqGyUVL_c')
+bot.run(TOKEN UwU)
